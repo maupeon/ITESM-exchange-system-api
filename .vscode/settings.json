@@ -26,5 +26,7 @@
         "language": "typescript",
         "autoFix": true
     }
-  ]
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/5a589258-a95d-4056-8dca-9879de775326/resourceGroups/test/providers/Microsoft.Web/sites/apiitesm",
+  "appService.deploySubpath": ""
 }
