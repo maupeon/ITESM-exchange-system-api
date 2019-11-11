@@ -1,0 +1,11 @@
+{
+    "name": "mongo_conn",
+    "connector": "mongodb",
+    "url": "mongodb+srv://romeova:f4HBKnr1oTEQnesd@cluster0-2jidk.mongodb.net/FacturadoWeb?retryWrites=true&w=majority",
+    "host": "cluster0-ggzgk.mongodb.net",
+    "port": 27017,
+    "user": "romeova",
+    "password": "f4HBKnr1oTEQnesd",
+    "database": "FacturadoWeb",
+    "useNewUrlParser": true
+}
